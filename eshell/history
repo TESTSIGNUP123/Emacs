@@ -1,0 +1,20 @@
+ls
+ls
+python3.7 main.py
+ls
+sudo pacman -Syyu
+neofetch 
+ls
+./poly.sh
+emacs -nw poly.sh
+load 
+htop
+gotop
+free -h
+ls
+ls
+python hello.py 
+python hello.py 
+python hello.py 
+IndentationError: unexpectpyted indent
+python hello.py 
