@@ -13,3 +13,6 @@
 	Org-mode写笔记（我已经沉迷org-mode大法了，这也是我为啥沉迷Emacs的原因）
 	org-mode：Ctrl-c t org笔记模式
 	(org-mode 模式码代码)： <s tab
+	
+#### PS 
+    备注：mode。配置文件模块化了
