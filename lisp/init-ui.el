@@ -1,4 +1,4 @@
-(set-default-font "monaco-12")
+;(set-default-font "monaco-12")
 ;;--------------------------Themes
 ;(load-theme 'dracula t)
 ;(load-theme 'leuven)

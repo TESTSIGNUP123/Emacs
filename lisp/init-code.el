@@ -1,13 +1,13 @@
 
 
 ;;common-Lisp
-(add-to-list 'load-path "~/.emacs.d/elpa/slime-20190319.930")
-(setq inferior-lisp-program "/usr/bin/sbcl")
-(setq slime-contribs '(slime-fancy))
-(slime-setup)
-(require 'slime)
-(require 'slime-autoloads)
-(slime-setup '(slime-fancy slime-banner))
+;(add-to-list 'load-path "~/.emacs.d/elpa/slime-20190319.930")
+;(setq inferior-lisp-program "/usr/bin/sbcl")
+;(setq slime-contribs '(slime-fancy))
+;(slime-setup)
+;(require 'slime)
+;(require 'slime-autoloads)
+;(slime-setup '(slime-fancy slime-banner))
 ;;LSP-mode
 (require 'lsp-mode)
 (require 'lsp-java)
